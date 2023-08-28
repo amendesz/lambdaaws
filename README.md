@@ -1,9 +1,9 @@
 # AWS Lightsail Instance Management Lambda
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io//amendesz/lambdaaws/seu-repositorio.svg)](https://github.com//amendesz/lambdaaws/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/amendesz/seu-repositorio.svg)](https://github.com//amendesz/lambdaaws/network)
-[![GitHub issues](https://img.shields.io/github/issues/amendesz/seu-repositorio.svg)](https://github.com//amendesz/lambdaaws/issues)
+[![GitHub stars](https://img.shields.io/github/stars/amendesz/lambdaaws.svg)](https://github.com/amendesz/lambdaaws/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/amendesz/lambdaaws.svg)](https://github.com/amendesz/lambdaaws/network)
+[![GitHub issues](https://img.shields.io/github/issues/amendesz/lambdaaws.svg)](https://github.com/amendesz/lambdaaws/issues)
 
 ## Descrição
 
@@ -26,5 +26,5 @@ Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correç
 
 ## Autores
 
-- Seu Nome (@seu-usuario)
+- Anderson Mendes (@amendesz)
 
